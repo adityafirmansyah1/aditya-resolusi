@@ -3,7 +3,6 @@ Judul-judul Buku
 - Atomic Habits (James Clear)
 - Start With Why (Simon Sinek)
 - Buku-buku bahasa inggris
-- Semua buku yg bermanfaat
 - Fiersa Besari 
   - Catatan Juang
   - Konspirasi Alam Semesta
@@ -12,3 +11,4 @@ Judul-judul Buku
 - Tsana (Pukul Setengah Lima)
 - tes
 - tes
+- fitur 1
